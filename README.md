@@ -67,7 +67,7 @@ This tool demonstrates:
 ### Advanced Features
 - 🚦 **Intelligent Rate Limiting**: Respects Instagram's API limits (180 req/hour)
 - 🔄 **Exponential Backoff**: Automatic retry with jitter for failed requests
-- 🛡️ **Anti-Detection**: Randomized user agents and human-like timing
+- 🛡️ **Request Pattern Management**: Human-like timing to demonstrate realistic data access patterns
 - 💾 **Session Management**: Persistent login sessions
 - 📄 **Multiple Export Formats**: JSON and Markdown reports
 - 📊 **Detailed Logging**: Structured JSON logs for analysis
